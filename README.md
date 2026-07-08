@@ -30,6 +30,14 @@ GoalPilot AI analyzes historical learning behavior and predicts the expected stu
 
 ---
 
+## Project Preview
+
+### Actual vs Predicted Study Hours
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+---
+
 ## Technologies Used
 
 - Python
